@@ -1,0 +1,4 @@
+
+Hello from testFile. This file for git 
+branch merging testing. :wq
+
